@@ -1,11 +1,8 @@
-<header class="p-1 d-flex d-row justify-space-around">
+<header>
     <h1>Benjamin PELAUDEIX</h1>
-    <div>
-        <nav>
-            <a href="#">Présentation</a>
-            <a href="#">Projets</a>
-            <a href="#">Contact</a>
-            <a href="#">Documents</a>
-        </nav>
-    </div>
+    <nav>
+        <a href="#"><i class="bi bi-person"></i> Présentation</a>
+        <a href="#"><i class="bi bi-folder"></i> Projets</a>
+        <a href="#"><i class="bi bi-envelope"></i> Contact</a>
+    </nav>
 </header>

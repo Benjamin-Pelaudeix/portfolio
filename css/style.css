@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 /* html attributes */
+body {
+    font-family: 'Potta One', cursive;
+}
 header {
     display: flex;
     flex-direction: row;
@@ -14,7 +17,14 @@ header {
 }
 nav a {
     margin-right: 15px;
+    text-decoration: none;
+    color: black;
 }
 nav a:last-child {
     margin-right: 0;
+}
+/* classes */
+.typer-style {
+    font-family: 'Courier New', Courier, monospace;
+    width: 25%;
 }
