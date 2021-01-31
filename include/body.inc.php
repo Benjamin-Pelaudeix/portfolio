@@ -190,7 +190,7 @@
                             <li>Formation continue avec la ligue Nouvelle-Aquitaine</li>
                         </ul>
                     </div>
-                    <divcg>
+                    <div>
                         <p class="job">Responsable Développement (Janvier 2019-)</p>
                         <p class="structure">Loud Esport</p>
                         <p>Missions : </p>
@@ -202,7 +202,7 @@
                             <li>Réalisation d'un site vitrine</li>
                             <li>Créateur de contenu</li>
                         </ul>
-                    </divcg>
+                    </div>
                 </div>
             </div>
         </div>
