@@ -206,5 +206,16 @@
                 </div>
             </div>
         </div>
+        <div id="contact">
+            <div class="container">
+                <h2>Contact</h2>
+                <p>Vous êtes intéressé pour travailler avec moi sur votre projet ? Laissez-moi un message !</p>
+                <div class="flex">
+                    <a href="#"><i class="fab fa-twitter"></i> @BenjaminP</a>
+                    <a href="#"><i class="fab fa-linkedin"></i> @Benjamin_PELAUDEIX</a>
+                    <a href="#"><i class="fab fa-discord"></i> @Ben.#8473</a>
+                </div>
+            </div>
+        </div>
         <a href="#top" id="back-top"><i class="fas fa-arrow-up"></i></a>
 </body>

@@ -3,7 +3,7 @@
     <nav>
         <a href="#presentation">Présentation</a>
         <a href="#">Projets</a>
-        <a href="#">Contact</a>
-        <a href="#"><i class="fas fa-lock"></i></a>
+        <a href="#contact">Contact</a>
+        <a href="www.admin.benjaminpelaudeix.fr"><i class="fas fa-lock"></i></a>
     </nav>
 </header>
