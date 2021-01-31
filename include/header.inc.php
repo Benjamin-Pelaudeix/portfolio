@@ -1,8 +1,9 @@
 <header>
     <h1>Benjamin PELAUDEIX</h1>
     <nav>
-        <a href="#"><i class="bi bi-person"></i> Présentation</a>
-        <a href="#"><i class="bi bi-folder"></i> Projets</a>
-        <a href="#"><i class="bi bi-envelope"></i> Contact</a>
+        <a href="#">Présentation</a>
+        <a href="#">Projets</a>
+        <a href="#">Contact</a>
+        <a href="#"><i class="fas fa-lock"></i></a>
     </nav>
 </header>

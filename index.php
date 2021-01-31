@@ -7,12 +7,18 @@
     <!-- stylesheet -->
     <link rel="stylesheet" href="css/style.css">
     <!-- icon library -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <script src="https://kit.fontawesome.com/e5e7c64170.js" crossorigin="anonymous"></script>
+    <!-- font -->
+    <link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
+    <!-- javascript -->
+    <script src="js/index.js"></script>
 </head>
 <body>
     <?php
-        //include header
+        // header
         require('include/header.inc.php');
+        // body
+        require('include/body.inc.php');
     ?>
 </body>
 </html>
