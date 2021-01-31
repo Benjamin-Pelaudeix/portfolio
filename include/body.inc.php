@@ -148,8 +148,8 @@
                 <h4><i class="fas fa-graduation-cap"></i> Universitaires</h4>
                 <div class="flex">
                     <div>
-                        <p>Graphiste (Septembre 2020-)</p>
-                        <p>OEIL, Limoges (87)</p>
+                        <p class="job">Graphiste (Septembre 2020-)</p>
+                        <p class="structure">OEIL, Limoges (87)</p>
                         <p>Missions :</p>
                         <ul>
                             <li>Création d'un logotype pour l'année 2020-2021</li>
@@ -157,8 +157,8 @@
                         </ul>
                     </div>
                     <div>
-                        <p>Responsable graphique (Septembre 2020-)</p>
-                        <p>Log_Mag, Limoges (87)</p>
+                        <p class="job">Responsable graphique (Septembre 2020-)</p>
+                        <p class="structure">Log_Mag, Limoges (87)</p>
                         <p>Missions : </p>
                         <ul>
                             <li>Création d'une charte graphique</li>
@@ -169,8 +169,8 @@
                 <h4><i class="fas fa-briefcase"></i> Professionnelles</h4>
                 <div class="flex">
                     <div>
-                        <p>Emploi saisonnier (Juin 2017-Septembre 2017)</p>
-                        <p>Best Courtage - Limoges (87)</p>
+                        <p class="job">Emploi saisonnier (Juin 2017-Septembre 2017)</p>
+                        <p class="structure">Best Courtage - Limoges (87)</p>
                         <p>Missions : </p>
                         <ul>
                             <li>Création de visuels pour les communications</li>
@@ -181,8 +181,8 @@
                 <h4><i class="fas fa-user"></i> Personnelles</h4>
                 <div class="flex">
                     <div>
-                        <p>Arbitre (Septembre 2017-)</p>
-                        <p>Ligue Nouvelle-Aquitaine de Basket-Ball</p>
+                        <p class="job">Arbitre (Septembre 2017-)</p>
+                        <p class="structure">Ligue Nouvelle-Aquitaine de Basket-Ball</p>
                         <p>Missions : </p>
                         <ul>
                             <li>Arbitre officiel au niveau pré-national séniors et fédéral jeunes</li>
@@ -190,9 +190,9 @@
                             <li>Formation continue avec la ligue Nouvelle-Aquitaine</li>
                         </ul>
                     </div>
-                    <div>
-                        <p>Responsable Développement (Janvier 2019-)</p>
-                        <p>Loud Esport</p>
+                    <divcg>
+                        <p class="job">Responsable Développement (Janvier 2019-)</p>
+                        <p class="structure">Loud Esport</p>
                         <p>Missions : </p>
                         <ul>
                             <li>Membre exécutif de l'association</li>
@@ -202,7 +202,7 @@
                             <li>Réalisation d'un site vitrine</li>
                             <li>Créateur de contenu</li>
                         </ul>
-                    </div>
+                    </divcg>
                 </div>
             </div>
         </div>
