@@ -7,6 +7,13 @@
 /* html attributes */
 body {
     font-family: 'Potta One', cursive;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    color: white;
+    background-image: url("../images/background/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
 }
 header {
     display: flex;
@@ -14,17 +21,144 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 25px;
+    color: white;
+}
+header h1 {
+    font-size: 40px;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    vertical-align: baseline;
 }
 nav a {
-    margin-right: 15px;
+    margin-right: 30px;
     text-decoration: none;
-    color: black;
+    color: white;
+    vertical-align: top;
+    padding-bottom: 10px;
+    transition: .3s ease-in-out;
+}
+nav a:hover {
+    padding-bottom: 5px;
+    border-bottom: 5px solid #98cbf8;
+    transition: .3s ease-in-out;
 }
 nav a:last-child {
     margin-right: 0;
+    border-bottom: none;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    font-size: 20px;
+}
+a {
+    color: white;
 }
 /* classes */
 .typer-style {
     font-family: 'Courier New', Courier, monospace;
-    width: 25%;
+    width: 70%;
+    font-size: 30px;
+    color: white;
+    background-color: #98cbf8;
+    margin-top: 15%;
+}
+.container {
+    padding: 50px 150px;
+}
+.progress {
+    height: 10px;
+    border: 2px solid white;
+}
+.progress-bar {
+    height: 100%;
+    background-color: white;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.flex div {
+    min-width: 30%;
+    margin-bottom: 10px;
+}
+/* id */
+#home {
+    height: 70vh;
+}
+#presentation {
+    background-color: #98cbf8;
+}
+#back-top {
+    background-color: #98cbf8;
+    padding: 10px 15px;
+    border-radius: 100%;
+    border: 3px solid white;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+}
+#html {
+    width: 80%;
+}
+#css {
+    width: 80%;
+}
+#js {
+    width: 70%;
+}
+#ts {
+    width: 70%;
+}
+#node {
+    width: 75%;
+}
+#php {
+    width: 80%;
+}
+#cpp {
+    width: 60%;
+}
+#java {
+    width: 65%;
+}
+#mssql {
+    width: 90%;
+}
+#mysql {
+    width: 85%;
+}
+#vs {
+    width: 70%;
+}
+#jetbrains {
+    width: 90%;
+}
+#office {
+    width: 90%;
+}
+#google {
+    width: 90%;
+}
+#psd {
+    width: 70%;
+}
+#xd {
+    width: 80%;
+}
+#windows {
+    width: 80%;
+}
+#macos {
+    width: 60%;
+}
+#linux {
+    width: 70%;
 }
