@@ -60,6 +60,29 @@ a {
     color: white;
     text-decoration: none;
 }
+h3, h4 {
+    margin: 15px 0;
+}
+footer {
+    padding: 5px 10px;
+}
+footer p {
+    font-size: 13px;
+}
+footer div {
+    text-align: right;
+}
+footer div i {
+    margin-right: 15px;
+}
+footer div i:last-child {
+    margin-right: 0;
+}
+li {
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 50px;
+    list-style-type: none;
+}
 /* classes */
 .typer-style {
     font-family: 'Courier New', Courier, monospace;
@@ -86,9 +109,16 @@ a {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.flex div {
-    min-width: 30%;
-    margin-bottom: 10px;
+.flex div:not(.progress-bar) {
+    min-width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.job {
+    font-weight: bold;
+}
+.structure {
+    font-style: italic;
 }
 /* id */
 #home {

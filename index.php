@@ -19,6 +19,8 @@
         require('include/header.inc.php');
         // body
         require('include/body.inc.php');
+        // footer
+        require('include/footer.inc.php');
     ?>
 </body>
 </html>
