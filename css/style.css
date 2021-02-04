@@ -63,6 +63,9 @@ a {
 h3, h4 {
     margin: 15px 0;
 }
+h3 {
+    font-size: 25px;
+}
 footer {
     padding: 5px 10px;
 }
@@ -89,7 +92,7 @@ li {
     width: 70%;
     font-size: 30px;
     color: white;
-    background-color: #98cbf8;
+    background-color: rgba(152,203,248);
     margin-top: 15%;
 }
 .container {
@@ -120,12 +123,36 @@ li {
 .structure {
     font-style: italic;
 }
+.bold {
+    font-weight: bold;
+}
+.project {
+    border: 3px solid white;
+    border-radius: 15px;
+    padding: 10px 20px;
+    width: 40%;
+}
+.project-description {
+    font-size: 15px;
+}
+.skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.skill {
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: bold;
+    background-color: rgba(153, 203, 254, .85);
+}
 /* id */
 #home {
     height: 70vh;
 }
 #presentation {
-    background-color: #98cbf8;
+    background-color: rgba(152,203,248,.85);
 }
 #back-top {
     background-color: #98cbf8;
@@ -192,4 +219,7 @@ li {
 }
 #linux {
     width: 70%;
+}
+#contact {
+    background-color: rgba(152,203,248,.85);
 }

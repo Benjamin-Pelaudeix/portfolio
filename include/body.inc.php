@@ -11,9 +11,9 @@
             <div class="container">
                 <h2>Présentation</h2>
                 <h3>À propos de moi</h3>
-                <p>Bonjour ! Je m'appelle Benjamin PELAUDEIX. J'ai 20 ans et je suis actuellement étudiant en DUT Informatique. J'apprends dans ma formation le développement logiciel, orienté objet ou non, le développement web, côté client et serveur, et je suis aussi sensibilisé à la gestion de projet, la gestion d'entreprise ainsi que la communication au sein des organisations. En dehors de mes études, j'aime approfondir mes connaissances et participer à des cours en ligne via OpenClassroom ou Udemy, les deux plateformes principales que j'utilise. Ce sont ces enseignements en autodidacte qui m'ont amené à aimer l'informatique et la programmation, surtout orientée web.
+                <p>Bonjour ! Je m'appelle Benjamin PELAUDEIX. J'ai 20 ans et je suis actuellement étudiant en DUT Informatique. J'apprends dans ma formation le <span class="bold">développement logiciel</span>, orienté objet ou non, le <span class="bold">développement web</span>, côté client et serveur, et je suis aussi sensibilisé à la gestion de projet, la gestion d'entreprise ainsi que la communication au sein des organisations. En dehors de mes études, j'aime approfondir mes connaissances et participer à des cours en ligne via <span class="bold">OpenClassroom</span> ou <span class="bold">Udemy</span>, les deux plateformes principales que j'utilise. Ce sont ces enseignements en <span class="bold">autodidacte</span> qui m'ont amené à aimer l'informatique et la programmation, surtout orientée web.
                     <br>
-                    Je suis optimiste, enthousiaste, curieux mais surtout travailleur. Je ne compte pas les heures passées à travailler sur un projet. J'ai un grand sens de la détermination et je perfectionniste. Il m'arrive parfois de faire plusieurs maquettes pour trouver celle qui correspond le mieux au projet.</p>
+                    Je suis <span class="bold">optimiste</span>, <span class="bold">enthousiaste</span>, <span class="bold">curieux</span> mais surtout <span class="bold">travailleur</span>. Je ne compte pas les heures passées à travailler sur un projet. J'ai un grand sens de la <span class="bold">détermination</span> et je suis <span class="bold">perfectionniste</span>. Il m'arrive parfois de faire plusieurs maquettes pour trouver celle qui correspond le mieux au projet.</p>
                 <h3>Mes compétences</h3>
                 <h4><i class="fas fa-desktop"></i> Technologies logicielles</h4>
                 <div class="flex">
@@ -185,7 +185,7 @@
                         <p class="structure">Ligue Nouvelle-Aquitaine de Basket-Ball</p>
                         <p>Missions : </p>
                         <ul>
-                            <li>Arbitre officiel au niveau pré-national séniors et fédéral jeunes</li>
+                            <li>Arbitre officiel au niveau fédéral jeunes</li>
                             <li>Formateur des arbitres au sein de mon club</li>
                             <li>Formation continue avec la ligue Nouvelle-Aquitaine</li>
                         </ul>
@@ -202,6 +202,112 @@
                             <li>Réalisation d'un site vitrine</li>
                             <li>Créateur de contenu</li>
                         </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="projects">
+            <div class="container">
+                <h2>Projets</h2>
+                <p>Réaliser un projet est vraiment une de mes activité favorite. Qu'il soit informatique, ou non, j'aime mettre à profit mes compétences au service de diverses activités pratiques universitaires comme personnelles.</p>
+                <h3><i class="fas fa-graduation-cap"></i> Universitaires</h3>
+                <div class="flex">
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>Bibliothèque</h3>
+                            <p class="project-description">Application de gestion d'une bibliothèque en mode console</p>
+                            <div class="skills">
+                                <p class="skill">C++</p>
+                                <p class="skill">Algorithmique</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>Pokemon</h3>
+                            <p class="project-description">Reproduction du jeu Pokemon pour apprendre la Programmation Orientée Objet</p>
+                            <div class="skills">
+                                <p class="skill">Java</p>
+                                <p class="skill">POO</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>Combava</h3>
+                            <p class="project-description">Initiation à l'interfaçage et l'ergonomie des applications avec la réalisation d'un site vitrine pour une société fictive</p>
+                            <div class="skills">
+                                <p class="skill">HTML</p>
+                                <p class="skill">CSS</p>
+                                <p class="skill">UX/UI</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>Space Invaders</h3>
+                            <p class="project-description">Reproduction du jeu Space Invaders par l'application du TDD (Test Driver Development)</p>
+                            <div class="skills">
+                                <p class="skill">Java</p>
+                                <p class="skill">Conception</p>
+                                <p class="skill">TDD</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>IUT Convoit'</h3>
+                            <p class="project-description">Projet d'application pour l'apprentissage du PHP à l'Université</p>
+                            <div class="skills">
+                                <p class="skill">PHP</p>
+                                <p class="skill">MySQL</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h3><i class="fas fa-user"></i> Personnels</h3>
+                <div class="flex">
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>Loud Esport</h3>
+                            <p class="project-description">Création d'un site vitrine pour l'association de sport électronique <span class="bold">Loud Esport</span></p>
+                            <div class="skills">
+                                <p class="skill">HTML</p>
+                                <p class="skill">CSS</p>
+                                <p class="skill">JS</p>
+                                <p class="skill">UX/UI</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>Formula Loud</h3>
+                            <p class="project-description">Organisation d'une ligue de sport électronique sur le jeu <span class="bold">F1 2020</span> avec réalisation d'un site applicatif</p>
+                            <div class="skills">
+                                <p class="skill">Organisation</p>
+                                <p class="skill">PHP</p>
+                                <p class="skill">CSS</p>
+                                <p class="skill">MySQL</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="project">
+                        <div class="project-image"></div>
+                        <div class="project-container">
+                            <h3>TechGames</h3>
+                            <p class="project-description">Émission hebdomadaire sur le thème de l'informatique et des technologies utilisées dans les jeux vidéo</p>
+                            <div class="skills">
+                                <p class="skill">Communication</p>
+                                <p class="skill">Veille</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
