@@ -18,13 +18,13 @@
                 <h4><i class="fas fa-desktop"></i> Technologies logicielles</h4>
                 <div class="flex">
                     <div>
-                        <p>C++</p>
+                        <p><i class="fas fa-code"></i> C++</p>
                         <div class="progress">
                             <div class="progress-bar" id="cpp"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Java</p>
+                        <p><i class="fab fa-java"></i> Java</p>
                         <div class="progress">
                             <div class="progress-bar" id="java"></div>
                         </div>
@@ -33,37 +33,37 @@
                 <h4><i class="fas fa-globe"></i> Technologies web</h4>
                 <div class="flex">
                     <div>
-                        <p>HTML 5</p>
+                        <p><i class="fab fa-html5"></i> HTML 5</p>
                         <div class="progress">
                             <div class="progress-bar" id="html"></div>
                         </div>
                     </div>
                     <div>
-                        <p>CSS3</p>
+                        <p><i class="fab fa-css3"></i> CSS3</p>
                         <div class="progress">
                             <div class="progress-bar" id="css"></div>
                         </div>
                     </div>
                     <div>
-                        <p>JavaScript</p>
+                        <p><i class="fab fa-js-square"></i> JavaScript</p>
                         <div class="progress">
                             <div class="progress-bar" id="js"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Typescript</p>
+                        <p><i class="fas fa-code"></i> Typescript</p>
                         <div class="progress">
                             <div class="progress-bar" id="ts"></div>
                         </div>
                     </div>
                     <div>
-                        <p>NodeJS</p>
+                        <p><i class="fab fa-node"></i> NodeJS</p>
                         <div class="progress">
                             <div class="progress-bar" id="node"></div>
                         </div>
                     </div>
                     <div>
-                        <p>PHP</p>
+                        <p><i class="fab fa-php"></i> PHP</p>
                         <div class="progress">
                             <div class="progress-bar" id="php"></div>
                         </div>
@@ -72,52 +72,67 @@
                 <h4><i class="fas fa-database"></i> Bases de données</h4>
                 <div class="flex">
                     <div>
-                        <p>Microsoft SQL</p>
+                        <p><i class="fas fa-database"></i> Microsoft SQL</p>
                         <div class="progress">
                             <div class="progress-bar" id="mssql"></div>
                         </div>
                     </div>
                     <div>
-                        <p>MySQL</p>
+                        <p><i class="fas fa-database"></i> MySQL</p>
                         <div class="progress">
                             <div class="progress-bar" id="mysql"></div>
+                        </div>
+                    </div>
+                </div>
+                <h4><i class="fab fa-git-alt"></i> Outils de versionnage</h4>
+                <div class="flex">
+                    <div>
+                        <p><i class="fab fa-git"></i> Git</p>
+                        <div class="progress">
+                            <div class="progress-bar" id="git"></div>
+                        </div>
+                    </div>
+                    <div>
+                        <p><i class="fab fa-github"></i> GitHub</p>
+                        <div class="progress">
+                            <div class="progress-bar" id="github"></div>
                         </div>
                     </div>
                 </div>
                 <h4><i class="fas fa-tools"></i> Outils</h4>
                 <div class="flex">
                     <div>
-                        <p>Microsoft Visual Studio</p>
+                        <p><i class="fas fa-tools"></i> Microsoft Visual Studio</p>
                         <div class="progress">
                             <div class="progress-bar" id="vs"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Suite JetBrains</p>
+                        <p><i class="fas fa-tools"></i> JetBrains IDE</p>
                         <div class="progress">
                             <div class="progress-bar" id="jetbrains"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Suite Office</p>
+                        <p><i class="fab fa-microsoft"></i> Suite Office</p>
                         <div class="progress">
                             <div class="progress-bar" id="office"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Suite Google</p>
+                        <p><i class="fab fa-google-drive"></i> Suite Google</p>
                         <div class="progress">
                             <div class="progress-bar" id="google"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Adobe Photoshop</p>
+                        <p><i class="fas fa-pen"></i> Adobe Photoshop</p>
                         <div class="progress">
                             <div class="progress-bar" id="psd"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Adobe XD</p>
+                        <p><i class="fas fa-pen"></i> Adobe XD</p>
                         <div class="progress">
                             <div class="progress-bar" id="xd"></div>
                         </div>
@@ -126,19 +141,19 @@
                 <h4><i class="fas fa-robot"></i> Systèmes d'exploitation</h4>
                 <div class="flex">
                     <div>
-                        <p>Windows</p>
+                        <p><i class="fab fa-windows"></i> Windows 10</p>
                         <div class="progress">
                             <div class="progress-bar" id="windows"></div>
                         </div>
                     </div>
                     <div>
-                        <p>MacOS</p>
+                        <p><i class="fab fa-apple"></i> MacOS</p>
                         <div class="progress">
                             <div class="progress-bar" id="macos"></div>
                         </div>
                     </div>
                     <div>
-                        <p>Linux</p>
+                        <p><i class="fab fa-linux"></i> Linux</p>
                         <div class="progress">
                             <div class="progress-bar" id="linux"></div>
                         </div>
@@ -148,7 +163,7 @@
                 <h4><i class="fas fa-graduation-cap"></i> Universitaires</h4>
                 <div class="flex">
                     <div>
-                        <p class="job">Graphiste (Septembre 2020-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Graphiste (Septembre 2020-)</p>
                         <p class="structure">OEIL, Limoges (87)</p>
                         <p>Missions :</p>
                         <ul>
@@ -157,7 +172,7 @@
                         </ul>
                     </div>
                     <div>
-                        <p class="job">Responsable graphique (Septembre 2020-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Responsable graphique (Septembre 2020-)</p>
                         <p class="structure">Log_Mag, Limoges (87)</p>
                         <p>Missions : </p>
                         <ul>
@@ -169,7 +184,7 @@
                 <h4><i class="fas fa-briefcase"></i> Professionnelles</h4>
                 <div class="flex">
                     <div>
-                        <p class="job">Emploi saisonnier (Juin 2017-Septembre 2017)</p>
+                        <p class="job"><i class="fas fa-star"></i> Emploi saisonnier (Juin 2017-Septembre 2017)</p>
                         <p class="structure">Best Courtage - Limoges (87)</p>
                         <p>Missions : </p>
                         <ul>
@@ -181,7 +196,7 @@
                 <h4><i class="fas fa-user"></i> Personnelles</h4>
                 <div class="flex">
                     <div>
-                        <p class="job">Arbitre (Septembre 2017-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Arbitre (Septembre 2017-)</p>
                         <p class="structure">Ligue Nouvelle-Aquitaine de Basket-Ball</p>
                         <p>Missions : </p>
                         <ul>
@@ -191,7 +206,7 @@
                         </ul>
                     </div>
                     <div>
-                        <p class="job">Responsable Développement (Janvier 2019-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Responsable Développement (Janvier 2019-)</p>
                         <p class="structure">Loud Esport</p>
                         <p>Missions : </p>
                         <ul>
@@ -213,7 +228,7 @@
                 <h3><i class="fas fa-graduation-cap"></i> Universitaires</h3>
                 <div class="flex">
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="library"></div>
                         <div class="project-container">
                             <h3>Bibliothèque</h3>
                             <p class="project-description">Application de gestion d'une bibliothèque en mode console</p>
@@ -224,7 +239,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="pokemon"></div>
                         <div class="project-container">
                             <h3>Pokemon</h3>
                             <p class="project-description">Reproduction du jeu Pokemon pour apprendre la Programmation Orientée Objet</p>
@@ -235,7 +250,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="combava"></div>
                         <div class="project-container">
                             <h3>Combava</h3>
                             <p class="project-description">Initiation à l'interfaçage et l'ergonomie des applications avec la réalisation d'un site vitrine pour une société fictive</p>
@@ -247,7 +262,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="space-invaders"></div>
                         <div class="project-container">
                             <h3>Space Invaders</h3>
                             <p class="project-description">Reproduction du jeu Space Invaders par l'application du TDD (Test Driver Development)</p>
@@ -259,7 +274,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="covoit"></div>
                         <div class="project-container">
                             <h3>IUT Convoit'</h3>
                             <p class="project-description">Projet d'application pour l'apprentissage du PHP à l'Université</p>
@@ -269,11 +284,23 @@
                             </div>
                         </div>
                     </div>
+                    <div class="project">
+                        <div class="project-image" id="tsxdoc"></div>
+                        <div class="project-container">
+                            <h3>TsXDoc</h3>
+                            <p class="project-description">Projet tuteuré de deuxième année pour le client Théra Soft. Création d'une application de partage de compte-rendus médicaux entre un centre de soin et ses patients.</p>
+                            <div class="skills">
+                                <p class="skill">Node.JS</p>
+                                <p class="skill">Express</p>
+                                <p class="skill">Team Work</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <h3><i class="fas fa-user"></i> Personnels</h3>
                 <div class="flex">
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="loud-esport"></div>
                         <div class="project-container">
                             <h3>Loud Esport</h3>
                             <p class="project-description">Création d'un site vitrine pour l'association de sport électronique <span class="bold">Loud Esport</span></p>
@@ -286,7 +313,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="formula-loud"></div>
                         <div class="project-container">
                             <h3>Formula Loud</h3>
                             <p class="project-description">Organisation d'une ligue de sport électronique sur le jeu <span class="bold">F1 2020</span> avec réalisation d'un site applicatif</p>
@@ -299,7 +326,7 @@
                         </div>
                     </div>
                     <div class="project">
-                        <div class="project-image"></div>
+                        <div class="project-image" id="techgames"></div>
                         <div class="project-container">
                             <h3>TechGames</h3>
                             <p class="project-description">Émission hebdomadaire sur le thème de l'informatique et des technologies utilisées dans les jeux vidéo</p>
