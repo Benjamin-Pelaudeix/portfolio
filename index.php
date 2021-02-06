@@ -10,8 +10,6 @@
     <script src="https://kit.fontawesome.com/e5e7c64170.js" crossorigin="anonymous"></script>
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
-    <!-- javascript -->
-    <script src="js/index.js"></script>
 </head>
 <body>
     <?php
@@ -22,5 +20,7 @@
         // footer
         require('include/footer.inc.php');
     ?>
+    <!-- javascript -->
+    <script src="js/getYear.js"></script>
 </body>
 </html>

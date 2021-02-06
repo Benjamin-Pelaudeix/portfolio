@@ -112,9 +112,8 @@ li {
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.flex div:not(.progress-bar) {
+.flex div:not(.progress-bar,.project) {
     min-width: 40%;
-    margin-top: 20px;
     margin-bottom: 20px;
 }
 .job {
@@ -129,8 +128,11 @@ li {
 .project {
     border: 3px solid white;
     border-radius: 15px;
-    padding: 10px 20px;
     width: 40%;
+    padding: 0;
+}
+.project-container {
+    padding: 10px 20px;
 }
 .project-description {
     font-size: 15px;
@@ -139,6 +141,7 @@ li {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    margin-top: 15px;
 }
 .skill {
     border: 2px solid white;
@@ -146,6 +149,22 @@ li {
     padding: 5px;
     font-weight: bold;
     background-color: rgba(153, 203, 254, .85);
+}
+.project-image {
+    width: 100%;
+    height: 300px;
+    border-radius: 15px 15px 0 0;
+    margin: 0;
+    padding: 0;
+    border-bottom: 2px solid white;
+    background-size: cover;
+    background-position: center;
+}
+.flex-projects div {
+    margin-bottom: 15px;
+}
+.flex-projects div:last-child {
+    margin-bottom: 0;
 }
 /* id */
 #home {
@@ -219,6 +238,40 @@ li {
 }
 #linux {
     width: 70%;
+}
+#git {
+    width: 80%;
+}
+#github {
+    width: 90%;
+}
+#library {
+    background-image: url("../images/projects/old-books-436498_1920.jpg");
+}
+#pokemon {
+    background-image: url("../images/projects/eevee-5475337_1920.jpg");
+}
+#combava {
+    background-image: url("../images/projects/lemon-2539163_1920.jpg");
+}
+#space-invaders {
+    background-image: url("../images/projects/technology-3189176_1920.jpg");
+}
+#covoit {
+    background-image: url("../images/projects/taxi-1999009_1920.jpg");
+}
+#tsxdoc {
+    background-image: url("../images/projects/medical-563427_1920.jpg");
+}
+#loud-esport {
+    background-image: url("../images/projects/lOUD ESPORT.png");
+}
+#formula-loud {
+    background-image: url("../images/projects/formula-loud.png");
+    background-size: 300%;
+}
+#techgames {
+    background-image: url("../images/projects/techgames.jpg");
 }
 #contact {
     background-color: rgba(152,203,248,.85);

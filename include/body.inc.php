@@ -226,7 +226,7 @@
                 <h2>Projets</h2>
                 <p>Réaliser un projet est vraiment une de mes activité favorite. Qu'il soit informatique, ou non, j'aime mettre à profit mes compétences au service de diverses activités pratiques universitaires comme personnelles.</p>
                 <h3><i class="fas fa-graduation-cap"></i> Universitaires</h3>
-                <div class="flex">
+                <div class="flex flex-projects">
                     <div class="project">
                         <div class="project-image" id="library"></div>
                         <div class="project-container">
@@ -298,7 +298,7 @@
                     </div>
                 </div>
                 <h3><i class="fas fa-user"></i> Personnels</h3>
-                <div class="flex">
+                <div class="flex flex-projects">
                     <div class="project">
                         <div class="project-image" id="loud-esport"></div>
                         <div class="project-container">
