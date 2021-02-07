@@ -10,7 +10,7 @@
     <script src="https://kit.fontawesome.com/e5e7c64170.js" crossorigin="anonymous"></script>
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Montserrat:wght@300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Montserrat:wght@300;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <?php
