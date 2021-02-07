@@ -16,7 +16,7 @@
                     Je suis <span class="bold">optimiste</span>, <span class="bold">enthousiaste</span>, <span class="bold">curieux</span> mais surtout <span class="bold">travailleur</span>. Je ne compte pas les heures passées à travailler sur un projet. J'ai un grand sens de la <span class="bold">détermination</span> et je suis <span class="bold">perfectionniste</span>. Il m'arrive parfois de faire plusieurs maquettes pour trouver celle qui correspond le mieux au projet.</p>
                 <h3>Mes compétences</h3>
                 <h4><i class="fas fa-desktop"></i> Technologies logicielles</h4>
-                <div class="flex">
+                <div class="flex skills">
                     <div>
                         <p><i class="fas fa-code"></i> C++</p>
                         <div class="progress">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
                 <h4><i class="fas fa-globe"></i> Technologies web</h4>
-                <div class="flex">
+                <div class="flex skills">
                     <div>
                         <p><i class="fab fa-html5"></i> HTML 5</p>
                         <div class="progress">
@@ -68,9 +68,15 @@
                             <div class="progress-bar" id="php"></div>
                         </div>
                     </div>
+                    <div>
+                        <p><i class="fas fa-code"></i> jQuery</p>
+                        <div class="progress">
+                            <div class="progress-bar" id="jquery"></div>
+                        </div>
+                    </div>
                 </div>
                 <h4><i class="fas fa-database"></i> Bases de données</h4>
-                <div class="flex">
+                <div class="flex skills">
                     <div>
                         <p><i class="fas fa-database"></i> Microsoft SQL</p>
                         <div class="progress">
@@ -85,7 +91,7 @@
                     </div>
                 </div>
                 <h4><i class="fab fa-git-alt"></i> Outils de versionnage</h4>
-                <div class="flex">
+                <div class="flex skills">
                     <div>
                         <p><i class="fab fa-git"></i> Git</p>
                         <div class="progress">
@@ -100,7 +106,7 @@
                     </div>
                 </div>
                 <h4><i class="fas fa-tools"></i> Outils</h4>
-                <div class="flex">
+                <div class="flex skills">
                     <div>
                         <p><i class="fas fa-tools"></i> Microsoft Visual Studio</p>
                         <div class="progress">
@@ -139,7 +145,7 @@
                     </div>
                 </div>
                 <h4><i class="fas fa-robot"></i> Systèmes d'exploitation</h4>
-                <div class="flex">
+                <div class="flex skills">
                     <div>
                         <p><i class="fab fa-windows"></i> Windows 10</p>
                         <div class="progress">
