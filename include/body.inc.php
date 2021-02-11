@@ -237,7 +237,7 @@
                         <div class="project-image" id="library"></div>
                         <div class="project-container">
                             <h3>Bibliothèque</h3>
-                            <p class="project-description">Application de gestion d'une bibliothèque en mode console</p>
+                            <p class="project-description">Application de gestion d'une <span class="bold">bibliothèque</span> en mode console</p>
                             <div class="skills">
                                 <p class="skill">C++</p>
                                 <p class="skill">Algorithmique</p>
@@ -248,7 +248,7 @@
                         <div class="project-image" id="pokemon"></div>
                         <div class="project-container">
                             <h3>Pokemon</h3>
-                            <p class="project-description">Reproduction du jeu Pokemon pour apprendre la Programmation Orientée Objet</p>
+                            <p class="project-description">Reproduction du jeu <span class="bold">Pokemon</span> pour apprendre la Programmation Orientée Objet</p>
                             <div class="skills">
                                 <p class="skill">Java</p>
                                 <p class="skill">POO</p>
@@ -259,7 +259,7 @@
                         <div class="project-image" id="combava"></div>
                         <div class="project-container">
                             <h3>Combava</h3>
-                            <p class="project-description">Initiation à l'interfaçage et l'ergonomie des applications avec la réalisation d'un site vitrine pour une société fictive</p>
+                            <p class="project-description">Initiation à l'<span class="bold">interfaçage</span> et l'<span class="bold">ergonomie</span> des applications avec la réalisation d'un site vitrine pour une société fictive</p>
                             <div class="skills">
                                 <p class="skill">HTML</p>
                                 <p class="skill">CSS</p>
@@ -271,7 +271,7 @@
                         <div class="project-image" id="space-invaders"></div>
                         <div class="project-container">
                             <h3>Space Invaders</h3>
-                            <p class="project-description">Reproduction du jeu Space Invaders par l'application du TDD (Test Driver Development)</p>
+                            <p class="project-description">Reproduction du jeu Space Invaders par l'application du <span class="bold">TDD</span> (Test Driver Development)</p>
                             <div class="skills">
                                 <p class="skill">Java</p>
                                 <p class="skill">Conception</p>
@@ -283,7 +283,7 @@
                         <div class="project-image" id="covoit"></div>
                         <div class="project-container">
                             <h3>IUT Convoit'</h3>
-                            <p class="project-description">Projet d'application pour l'apprentissage du PHP à l'Université</p>
+                            <p class="project-description">Projet d'application pour l'apprentissage du <span class="bold">PHP</span> à l'Université. Création d'un site de covoiturage pour les étudiants et les personnels de l'IUT du Limousin</p>
                             <div class="skills">
                                 <p class="skill">PHP</p>
                                 <p class="skill">MySQL</p>
@@ -294,7 +294,7 @@
                         <div class="project-image" id="tsxdoc"></div>
                         <div class="project-container">
                             <h3>TsXDoc</h3>
-                            <p class="project-description">Projet tuteuré de deuxième année pour le client Théra Soft. Création d'une application de partage de compte-rendus médicaux entre un centre de soin et ses patients.</p>
+                            <p class="project-description">Projet tuteuré de deuxième année pour le client <span class="bold">Théra Soft</span>. Création d'une application de partage de compte-rendus médicaux entre un centre de soin et ses patients</p>
                             <div class="skills">
                                 <p class="skill">Node.JS</p>
                                 <p class="skill">Express</p>
@@ -324,7 +324,6 @@
                             <h3>Formula Loud</h3>
                             <p class="project-description">Organisation d'une ligue de sport électronique sur le jeu <span class="bold">F1 2020</span> avec réalisation d'un site applicatif</p>
                             <div class="skills">
-                                <p class="skill">Organisation</p>
                                 <p class="skill">PHP</p>
                                 <p class="skill">CSS</p>
                                 <p class="skill">MySQL</p>
@@ -335,7 +334,7 @@
                         <div class="project-image" id="techgames"></div>
                         <div class="project-container">
                             <h3>TechGames</h3>
-                            <p class="project-description">Émission hebdomadaire sur le thème de l'informatique et des technologies utilisées dans les jeux vidéo</p>
+                            <p class="project-description">Émission <span class="bold">hebdomadaire</span> sur le thème de l'informatique et des technologies utilisées dans les jeux vidéo</p>
                             <div class="skills">
                                 <p class="skill">Communication</p>
                                 <p class="skill">Veille</p>
