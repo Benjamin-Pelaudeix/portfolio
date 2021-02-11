@@ -6,6 +6,8 @@
     <title>Benjamin PELAUDEIX</title>
     <!-- stylesheet -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style-ipad.css">
+    <link rel="stylesheet" href="css/style-iphone.css">
     <!-- icon library -->
     <script src="https://kit.fontawesome.com/e5e7c64170.js" crossorigin="anonymous"></script>
     <!-- font -->

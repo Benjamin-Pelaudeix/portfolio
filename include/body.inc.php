@@ -169,7 +169,7 @@
                 <h4><i class="fas fa-graduation-cap"></i> Universitaires</h4>
                 <div class="flex">
                     <div>
-                        <p class="job"><i class="fas fa-star"></i> Graphiste (Septembre 2020-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Graphiste <br> (Septembre 2020-)</p>
                         <p class="structure">OEIL, Limoges (87)</p>
                         <p>Missions :</p>
                         <ul>
@@ -178,7 +178,7 @@
                         </ul>
                     </div>
                     <div>
-                        <p class="job"><i class="fas fa-star"></i> Responsable graphique (Septembre 2020-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Responsable graphique <br> (Septembre 2020-)</p>
                         <p class="structure">Log_Mag, Limoges (87)</p>
                         <p>Missions : </p>
                         <ul>
@@ -190,7 +190,7 @@
                 <h4><i class="fas fa-briefcase"></i> Professionnelles</h4>
                 <div class="flex">
                     <div>
-                        <p class="job"><i class="fas fa-star"></i> Emploi saisonnier (Juin 2017-Septembre 2017)</p>
+                        <p class="job"><i class="fas fa-star"></i> Emploi saisonnier <br> (Juin 2017-Septembre 2017)</p>
                         <p class="structure">Best Courtage - Limoges (87)</p>
                         <p>Missions : </p>
                         <ul>
@@ -202,7 +202,7 @@
                 <h4><i class="fas fa-user"></i> Personnelles</h4>
                 <div class="flex">
                     <div>
-                        <p class="job"><i class="fas fa-star"></i> Arbitre (Septembre 2017-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Arbitre <br> (Septembre 2017-)</p>
                         <p class="structure">Ligue Nouvelle-Aquitaine de Basket-Ball</p>
                         <p>Missions : </p>
                         <ul>
@@ -212,7 +212,7 @@
                         </ul>
                     </div>
                     <div>
-                        <p class="job"><i class="fas fa-star"></i> Responsable Développement (Janvier 2019-)</p>
+                        <p class="job"><i class="fas fa-star"></i> Responsable Développement <br> (Janvier 2019-)</p>
                         <p class="structure">Loud Esport</p>
                         <p>Missions : </p>
                         <ul>
@@ -346,7 +346,7 @@
         <div id="contact">
             <div class="container">
                 <h2>Contact</h2>
-                <p>Vous êtes intéressé pour travailler avec moi sur votre projet ? Laissez-moi un message !</p>
+                <p>Vous êtes intéressé pour travailler avec moi sur votre <span class="bold">projet</span> ? Laissez-moi un message !</p>
                 <div class="flex">
                     <a href="#"><i class="fab fa-twitter"></i> @BenjaminP</a>
                     <a href="#"><i class="fab fa-linkedin"></i> @Benjamin_PELAUDEIX</a>
