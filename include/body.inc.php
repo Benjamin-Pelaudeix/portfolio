@@ -240,7 +240,7 @@
                             <p class="project-description">Application de gestion d'une <span class="bold">bibliothèque</span> en mode console</p>
                             <div class="skills">
                                 <p class="skill">C++</p>
-                                <p class="skill">Algorithmique</p>
+                                <p class="skill soft-skill">Algorithmique</p>
                             </div>
                         </div>
                     </div>
@@ -251,7 +251,6 @@
                             <p class="project-description">Reproduction du jeu <span class="bold">Pokemon</span> pour apprendre la Programmation Orientée Objet</p>
                             <div class="skills">
                                 <p class="skill">Java</p>
-                                <p class="skill">POO</p>
                             </div>
                         </div>
                     </div>
@@ -263,7 +262,7 @@
                             <div class="skills">
                                 <p class="skill">HTML</p>
                                 <p class="skill">CSS</p>
-                                <p class="skill">UX/UI</p>
+                                <p class="skill soft-skill">UX/UI</p>
                             </div>
                         </div>
                     </div>
@@ -274,7 +273,7 @@
                             <p class="project-description">Reproduction du jeu Space Invaders par l'application du <span class="bold">TDD</span> (Test Driver Development)</p>
                             <div class="skills">
                                 <p class="skill">Java</p>
-                                <p class="skill">Conception</p>
+                                <p class="skill soft-skill">Conception</p>
                                 <p class="skill">TDD</p>
                             </div>
                         </div>
@@ -298,7 +297,7 @@
                             <div class="skills">
                                 <p class="skill">Node.JS</p>
                                 <p class="skill">Express</p>
-                                <p class="skill">Team Work</p>
+                                <p class="skill soft-skill">Team Work</p>
                             </div>
                         </div>
                     </div>
@@ -314,7 +313,7 @@
                                 <p class="skill">HTML</p>
                                 <p class="skill">CSS</p>
                                 <p class="skill">JS</p>
-                                <p class="skill">UX/UI</p>
+                                <p class="skill soft-skill">UX/UI</p>
                             </div>
                         </div>
                     </div>
@@ -336,8 +335,8 @@
                             <h3>TechGames</h3>
                             <p class="project-description">Émission <span class="bold">hebdomadaire</span> sur le thème de l'informatique et des technologies utilisées dans les jeux vidéo</p>
                             <div class="skills">
-                                <p class="skill">Communication</p>
-                                <p class="skill">Veille</p>
+                                <p class="skill soft-skill">Communication</p>
+                                <p class="skill soft-skill">Veille</p>
                             </div>
                         </div>
                     </div>

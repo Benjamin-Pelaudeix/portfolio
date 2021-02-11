@@ -104,11 +104,12 @@ footer {
 }
 .progress {
     height: 10px;
-    border: 2px solid white;
+    border: 2px solid #f6c15b;
+    margin-top: 5px;
 }
 .progress-bar {
     height: 100%;
-    background-color: white;
+    background: linear-gradient(to right, #f6c15b, #fac154);
 }
 .flex {
     display: flex;
@@ -128,6 +129,7 @@ footer {
 }
 .bold {
     font-weight: 700;
+    color: #f6c15b;
 }
 .project {
     border: 3px solid white;
@@ -159,6 +161,9 @@ footer {
     font-weight: bold;
     background-color: rgba(153, 203, 254, .85);
     width: fit-content;
+}
+.soft-skill {
+    background-color: #fac154;
 }
 .project-image {
     width: 100%;
