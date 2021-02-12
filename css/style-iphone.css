@@ -49,6 +49,13 @@
     }
 }
 
+@media screen and (max-width: 376px) {
+    .project {
+        width: 275px;
+        min-width: 275px;
+    }
+}
+
 @media screen and (max-width: 321px) {
     .container {
         padding: 50px 25px;

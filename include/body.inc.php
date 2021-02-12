@@ -252,6 +252,9 @@
                             <div class="skills">
                                 <p class="skill">Java</p>
                             </div>
+                            <div class="skills links">
+                                <a class="skill" href="https://github.com/Benjamin-Pelaudeix/Pokemon"><i class="fab fa-github"></i> Code source</a>
+                            </div>
                         </div>
                     </div>
                     <div class="project">
@@ -263,6 +266,10 @@
                                 <p class="skill">HTML</p>
                                 <p class="skill">CSS</p>
                                 <p class="skill soft-skill">UX/UI</p>
+                            </div>
+                            <div class="skills links">
+                                <a class="skill" href="https://github.com/jeanlrnt/Combava"><i class="fab fa-github"></i> Code source</a>
+                                <a class="skill" href="https://jeanlrnt.github.io/Combava"><i class="fas fa-globe"></i> Site</a>
                             </div>
                         </div>
                     </div>
@@ -276,6 +283,9 @@
                                 <p class="skill soft-skill">Conception</p>
                                 <p class="skill">TDD</p>
                             </div>
+                            <div class="skills links">
+                                <a class="skill" href="https://github.com/Benjamin-Pelaudeix/spaceinvader"><i class="fab fa-github"></i> Code source</a>
+                            </div>
                         </div>
                     </div>
                     <div class="project">
@@ -286,6 +296,9 @@
                             <div class="skills">
                                 <p class="skill">PHP</p>
                                 <p class="skill">MySQL</p>
+                            </div>
+                            <div class="skills links">
+                                <a class="skill" href="https://github.com/Benjamin-Pelaudeix/IUT-Covoiturage"><i class="fab fa-github"></i> Code source</a>
                             </div>
                         </div>
                     </div>
@@ -315,6 +328,10 @@
                                 <p class="skill">JS</p>
                                 <p class="skill soft-skill">UX/UI</p>
                             </div>
+                            <div class="skills links">
+                                <a class="skill" href="https://github.com/Benjamin-Pelaudeix/Loud-Esport"><i class="fab fa-github"></i> Code source</a>
+                                <a class="skill" href="https://loudesport.eu"><i class="fas fa-globe"></i> Site</a>
+                            </div>
                         </div>
                     </div>
                     <div class="project">
@@ -326,6 +343,10 @@
                                 <p class="skill">PHP</p>
                                 <p class="skill">CSS</p>
                                 <p class="skill">MySQL</p>
+                            </div>
+                            <div class="skills links">
+                                <a class="skill" href="https://github.com/Benjamin-Pelaudeix/Formula-Loud"><i class="fab fa-github"></i> Code source</a>
+                                <a class="skill" href="http://formula.loudesport.eu"><i class="fas fa-globe"></i> Site</a>
                             </div>
                         </div>
                     </div>
@@ -348,6 +369,7 @@
                 <h2>Contact</h2>
                 <p>Vous êtes intéressé pour travailler avec moi sur votre <span class="bold">projet</span> ? Laissez-moi un message !</p>
                 <div class="flex">
+                    <a href="mailto:contact@benjaminpelaudeix.fr"><i class="fas fa-envelope"></i> Mail</a>
                     <a href="#"><i class="fab fa-twitter"></i> @BenjaminP</a>
                     <a href="#"><i class="fab fa-linkedin"></i> @Benjamin_PELAUDEIX</a>
                     <a href="#"><i class="fab fa-discord"></i> @Ben.#8473</a>
