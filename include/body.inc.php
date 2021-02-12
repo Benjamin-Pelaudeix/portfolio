@@ -370,9 +370,9 @@
                 <p>Vous êtes intéressé pour travailler avec moi sur votre <span class="bold">projet</span> ? Laissez-moi un message !</p>
                 <div class="flex">
                     <a href="mailto:contact@benjaminpelaudeix.fr"><i class="fas fa-envelope"></i> Mail</a>
-                    <a href="#"><i class="fab fa-twitter"></i> @BenjaminP</a>
-                    <a href="#"><i class="fab fa-linkedin"></i> @Benjamin_PELAUDEIX</a>
-                    <a href="#"><i class="fab fa-discord"></i> @Ben.#8473</a>
+                    <a href="https://twitter.com/PelaudeixB"><i class="fab fa-twitter"></i> @BenjaminP</a>
+                    <a href="https://www.linkedin.com/in/benjamin-pelaudeix-78747b166/"><i class="fab fa-linkedin"></i> @Benjamin_PELAUDEIX</a>
+                    <a><i class="fab fa-discord"></i> @Ben.#8473</a>
                 </div>
             </div>
         </div>
