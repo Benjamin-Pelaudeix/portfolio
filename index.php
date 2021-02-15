@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/style-ipad.css">
     <link rel="stylesheet" href="css/style-iphone.css">
+    <!-- aos library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <!-- icon library -->
     <script src="https://kit.fontawesome.com/e5e7c64170.js" crossorigin="anonymous"></script>
     <!-- font -->
@@ -25,5 +28,8 @@
     ?>
     <!-- javascript -->
     <script src="js/getYear.js"></script>
+    <script>
+        AOS.init()
+    </script>
 </body>
 </html>
