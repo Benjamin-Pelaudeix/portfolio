@@ -1,4 +1,8 @@
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 668px) {
+    body {
+        background-size: 300%;
+        background-position: center;
+    }
     header {
         justify-content: center;
     }

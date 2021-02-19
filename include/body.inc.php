@@ -33,7 +33,7 @@
                 <h4><i class="fas fa-globe"></i> Technologies web</h4>
                 <div class="flex skills">
                     <div data-aos="fade-right">
-                        <p><i class="fab fa-html5"></i> HTML 5</p>
+                        <p><i class="fab fa-html5"></i> HTML5</p>
                         <div class="progress">
                             <div class="progress-bar" id="html"></div>
                         </div>
