@@ -225,6 +225,12 @@
                         </ul>
                     </div>
                 </div>
+                <h3>Vous souhaitez en savoir plus ?</h3>
+                <a href="documents/cv.pdf">
+                    <div class="button">
+                        <p>Téléchargez mon CV</p>
+                    </div>
+                </a>
             </div>
         </div>
         <div id="projects">

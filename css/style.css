@@ -188,6 +188,55 @@ footer {
 .flex-projects div {
     margin-bottom: 15px;
 }
+/*.button {
+    border: 2px solid white;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: bolder;
+    background: linear-gradient(to right, white, transparent) 100%;
+    background-size: 1000%;
+}
+.button:hover {
+    color: #fac154;
+    background-position: 0;
+    transition: background .3s ease-in-out;
+}*/
+.button {
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    position: relative;
+    border: 2px solid white;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 15px;
+    transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+    font-weight: bold;
+}
+.button:hover {
+    color: #fac154 !important;
+    background-color: transparent;
+}
+.button:hover:before {
+    left: 0;
+    right: auto;
+    width: 100%;
+}
+.button:before {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 0;
+    z-index: -1;
+    content: '';
+    color: #fac154 !important;
+    background: white;
+    transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+    border-radius: 12px;
+}
 /* id */
 #home {
     height: 70vh;
