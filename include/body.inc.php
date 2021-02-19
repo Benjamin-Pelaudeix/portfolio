@@ -236,7 +236,7 @@
         <div id="projects">
             <div class="container">
                 <h2>Projets</h2>
-                <p>Réaliser un projet est vraiment une de mes activité favorite. Qu'il soit informatique, ou non, j'aime mettre à profit mes compétences au service de diverses activités pratiques universitaires comme personnelles.</p>
+                <p>Réaliser un projet est vraiment une de mes activités favorites. Qu'il soit informatique, ou non, j'aime mettre à profit mes compétences au service de diverses activités pratiques universitaires comme personnelles.</p>
                 <h3><i class="fas fa-graduation-cap"></i> Universitaires</h3>
                 <div class="flex flex-projects">
                     <div class="project" data-aos="zoom-in">
@@ -312,7 +312,7 @@
                         <div class="project-image" id="tsxdoc"></div>
                         <div class="project-container">
                             <h3>TsXDoc</h3>
-                            <p class="project-description">Projet tuteuré de deuxième année pour le client <span class="bold">Théra Soft</span>. Création d'une application de partage de compte-rendus médicaux entre un centre de soin et ses patients</p>
+                            <p class="project-description">Projet tuteuré de deuxième année pour le client <span class="bold">THÉRA SOFT</span>. Création d'une application de partage de compte-rendus médicaux entre un centre de soin et ses patients</p>
                             <div class="skills">
                                 <p class="skill">Node.JS</p>
                                 <p class="skill">Express</p>
