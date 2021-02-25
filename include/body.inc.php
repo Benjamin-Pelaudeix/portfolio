@@ -12,7 +12,7 @@
         <div id="presentation">
             <div class="container" data-aos="fade-up" data-aos-duration="1500">
                 <h2>Présentation</h2>
-                <h3>À propos de moi</h3>
+                <h3>A propos de moi</h3>
                 <p>Bonjour ! Je m'appelle Benjamin PELAUDEIX. J'ai 20 ans et je suis actuellement étudiant en DUT Informatique. J'apprends dans ma formation le <span class="bold">développement logiciel</span>, orienté objet ou non, le <span class="bold">développement web</span>, côté client et serveur, et je suis aussi sensibilisé à la gestion de projet, la gestion d'entreprise ainsi que la communication au sein des organisations. En dehors de mes études, j'aime approfondir mes connaissances et participer à des cours en ligne via <span class="bold">OpenClassroom</span> ou <span class="bold">Udemy</span>, les deux plateformes principales que j'utilise. Ce sont ces enseignements en <span class="bold">autodidacte</span> qui m'ont amené à aimer l'informatique et la programmation, surtout orientée web.
                     <br>
                     Je suis <span class="bold">optimiste</span>, <span class="bold">enthousiaste</span>, <span class="bold">curieux</span> mais surtout <span class="bold">travailleur</span>. Je ne compte pas les heures passées à travailler sur un projet. J'ai un grand sens de la <span class="bold">détermination</span> et je suis <span class="bold">perfectionniste</span>. Il m'arrive parfois de faire plusieurs maquettes pour trouver celle qui correspond le mieux au projet.</p>
@@ -382,7 +382,7 @@
                     <a href="mailto:contact@benjaminpelaudeix.fr" data-aos="fade-right"><i class="fas fa-envelope"></i> Mail</a>
                     <a href="https://twitter.com/PelaudeixB" data-aos="fade-right" data-aos-delay="300"><i class="fab fa-twitter"></i> @BenjaminP</a>
                     <a href="https://www.linkedin.com/in/benjamin-pelaudeix-78747b166/" data-aos="fade-right" data-aos-delay="600"><i class="fab fa-linkedin"></i> @Benjamin_PELAUDEIX</a>
-                    <a data-aos="fade-right" data-aos-delay="900"><i class="fab fa-discord"></i> @Ben.#8473</a>
+                    <a href="https://discord.com" data-aos="fade-right" data-aos-delay="900"><i class="fab fa-discord"></i> @Ben.#8473</a>
                 </div>
             </div>
         </div>
