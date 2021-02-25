@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Bienvenue sur mon portfolio ! Venez découvrir mon compétences, mes projets pour peut-être que nous collaborions">
     <title>Benjamin PELAUDEIX</title>
     <!-- stylesheet -->
     <link rel="stylesheet" href="css/style.css">
