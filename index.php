@@ -16,6 +16,15 @@
     <!-- font -->
     <link href="https://fonts.googleapis.com/css2?family=Potta+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Montserrat:wght@300;700&display=swap" rel="stylesheet">
+    <!--  google analytics  -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ES5W6ESZ10"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ES5W6ESZ10');
+    </script>
 </head>
 <body>
     <?php
