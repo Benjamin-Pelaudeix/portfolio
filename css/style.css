@@ -42,7 +42,7 @@ nav a {
 }
 nav a:hover {
     padding-bottom: 5px;
-    border-bottom: 5px solid #98cbf8;
+    border-bottom: 5px solid #fac154;
     transition: .3s ease-in-out;
 }
 nav a:last-child {
@@ -103,6 +103,12 @@ footer {
     color: white;
     background-color: rgba(152,203,248,1);
     padding: 2em;
+    box-shadow: #fac154 10px 12px 5px;
+    transition: .2s ease-in-out;
+}
+.typer-style:hover {
+    transition: .2s ease-in-out;
+    box-shadow: white 10px 12px 5px;
 }
 .container {
     padding: 50px 150px;
