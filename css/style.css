@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 /* html attributes */
@@ -16,9 +17,18 @@ body {
     background-attachment: fixed;
 }
 header {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
     align-items: center;
     padding: 10px 25px;
     color: white;
@@ -28,7 +38,12 @@ header h1 {
     font-size: 40px;
 }
 nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
     vertical-align: baseline;
 }
@@ -38,11 +53,15 @@ nav a {
     color: white;
     vertical-align: top;
     padding-bottom: 10px;
+    -webkit-transition: .3s ease-in-out;
+    -o-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
 nav a:hover {
     padding-bottom: 5px;
     border-bottom: 5px solid #fac154;
+    -webkit-transition: .3s ease-in-out;
+    -o-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
 }
 nav a:last-child {
@@ -98,16 +117,24 @@ footer {
 .typer-style {
     font-family: 'Courier New', Courier, monospace;
     width: 70%;
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
     height: fit-content;
     font-size: 30px;
     color: white;
     background-color: rgba(152,203,248,1);
     padding: 2em;
+    -webkit-box-shadow: #fac154 10px 12px 5px;
     box-shadow: #fac154 10px 12px 5px;
+    -webkit-transition: .2s ease-in-out;
+    -o-transition: .2s ease-in-out;
     transition: .2s ease-in-out;
 }
 .typer-style:hover {
+    -webkit-transition: .2s ease-in-out;
+    -o-transition: .2s ease-in-out;
     transition: .2s ease-in-out;
+    -webkit-box-shadow: white 10px 12px 5px;
     box-shadow: white 10px 12px 5px;
 }
 .container {
@@ -124,9 +151,17 @@ footer {
     background: white;
 }
 .flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
+    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
 .flex div:not(.progress-bar,.project) {
@@ -157,10 +192,18 @@ footer {
     font-size: 15px;
 }
 .skills {
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
     flex-direction: row;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
     justify-content: start;
     margin-top: 15px;
+    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
 .skills div {
@@ -184,6 +227,8 @@ footer {
     padding: 5px;
     font-weight: bold;
     background-color: rgba(153, 203, 254, .85);
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
     width: fit-content;
     margin-right: 10px;
 }
@@ -209,9 +254,13 @@ footer {
     display: block;
     position: relative;
     border: 2px solid white;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
     width: fit-content;
     padding: 10px;
     border-radius: 15px;
+    -webkit-transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+    -o-transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
     transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
     font-weight: bold;
 }
@@ -235,16 +284,26 @@ footer {
     content: '';
     color: #fac154 !important;
     background: white;
+    -webkit-transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
+    -o-transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
     transition: all 0.4s cubic-bezier(0.42, 0, 0.58, 1);
     border-radius: 12px;
 }
 .home-anim {
     height: calc(100vh - 30em);
+    display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
     justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
     align-items: center;
 }
 .experiences {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
     justify-content: start;
 }
 .experiences div {
@@ -373,6 +432,9 @@ footer {
 
 @media screen and (max-width: 1148px) {
     .experiences {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
         flex-direction: column;
     }
 

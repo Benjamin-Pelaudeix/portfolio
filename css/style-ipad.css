@@ -1,5 +1,8 @@
 @media screen and (max-width: 1114px) {
     .flex {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
         flex-direction: column;
     }
     .typer-style {
@@ -12,7 +15,7 @@
         margin-top: 10px;
     }
     .project {
-         width: 100%;
+        width: 100%;
     }
 }
 
