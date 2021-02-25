@@ -167,7 +167,7 @@
                 </div>
                 <h3>Mes expériences</h3>
                 <h4><i class="fas fa-graduation-cap"></i> Universitaires</h4>
-                <div class="flex">
+                <div class="flex experiences">
                     <div data-aos="fade-right">
                         <p class="job"><i class="fas fa-star"></i> Graphiste <br> (Septembre 2020-)</p>
                         <p class="structure">OEIL, Limoges (87)</p>
@@ -188,7 +188,7 @@
                     </div>
                 </div>
                 <h4><i class="fas fa-briefcase"></i> Professionnelles</h4>
-                <div class="flex">
+                <div class="flex experiences">
                     <div data-aos="fade-right">
                         <p class="job"><i class="fas fa-star"></i> Emploi saisonnier <br> (Juin 2017-Septembre 2017)</p>
                         <p class="structure">Best Courtage - Limoges (87)</p>
@@ -200,7 +200,7 @@
                     </div>
                 </div>
                 <h4><i class="fas fa-user"></i> Personnelles</h4>
-                <div class="flex">
+                <div class="flex experiences">
                     <div data-aos="fade-right">
                         <p class="job"><i class="fas fa-star"></i> Arbitre <br> (Septembre 2017-)</p>
                         <p class="structure">Ligue Nouvelle-Aquitaine de Basket-Ball</p>
@@ -225,12 +225,14 @@
                         </ul>
                     </div>
                 </div>
-                <h3>Vous souhaitez en savoir plus ?</h3>
-                <a href="documents/cv.pdf">
-                    <div class="button">
-                        <p>Téléchargez mon CV</p>
-                    </div>
-                </a>
+                <div class="cv">
+                    <h3>Vous souhaitez en savoir plus ?</h3>
+                    <a href="documents/cv.pdf">
+                        <div class="button">
+                            <p>Téléchargez mon CV</p>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
         <div id="projects">

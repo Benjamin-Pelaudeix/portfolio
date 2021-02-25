@@ -1,7 +1,6 @@
-@media screen and (max-width: 1113px) {
+@media screen and (max-width: 1114px) {
     .flex {
         flex-direction: column;
-        align-items: center;
     }
     .typer-style {
         margin-top: 20%;
@@ -9,10 +8,10 @@
     .typer-style h1 {
         font-size: 40px;
     }
-    .skills div:not(.progress-bar) {
-        width: 100%;
-    }
     #contact .flex {
         margin-top: 10px;
+    }
+    .project {
+         width: 100%;
     }
 }

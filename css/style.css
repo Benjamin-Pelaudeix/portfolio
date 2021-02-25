@@ -137,8 +137,8 @@ footer {
 .project {
     border: 3px solid white;
     border-radius: 15px;
-    width: 500px;
-    min-width: 500px;
+    width: 40%;
+    min-width: 48%;
     padding: 0 0 10px;
 }
 .project-container {
@@ -150,9 +150,14 @@ footer {
 .skills {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: start;
     margin-top: 15px;
     flex-wrap: wrap;
+}
+.skills div {
+    width: 25em;
+    margin-right: 25px;
+    margin-bottom: 25px;
 }
 .links {
     border-top: 2px solid white;
@@ -171,6 +176,7 @@ footer {
     font-weight: bold;
     background-color: rgba(153, 203, 254, .85);
     width: fit-content;
+    margin-right: 10px;
 }
 .soft-skill {
     background-color: #fac154;
@@ -188,20 +194,6 @@ footer {
 .flex-projects div {
     margin-bottom: 15px;
 }
-/*.button {
-    border: 2px solid white;
-    width: fit-content;
-    padding: 10px;
-    border-radius: 15px;
-    font-weight: bolder;
-    background: linear-gradient(to right, white, transparent) 100%;
-    background-size: 1000%;
-}
-.button:hover {
-    color: #fac154;
-    background-position: 0;
-    transition: background .3s ease-in-out;
-}*/
 .button {
     color: #fff;
     cursor: pointer;
@@ -350,4 +342,20 @@ footer {
 #contact {
     background-color: rgba(152,203,248,.85);
     padding: 100px 0;
+}
+
+@media screen and (max-width: 1165px) {
+    .skills div:not(.progress-bar) {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1148px) {
+    .experiences {
+        flex-direction: column;
+    }
+
+    .experiences div {
+        margin-bottom: 25px;
+    }
 }
