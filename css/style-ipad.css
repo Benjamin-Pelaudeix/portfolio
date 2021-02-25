@@ -3,7 +3,7 @@
         flex-direction: column;
     }
     .typer-style {
-        margin-top: 20%;
+        width: 100%;
     }
     .typer-style h1 {
         font-size: 40px;
@@ -13,5 +13,11 @@
     }
     .project {
          width: 100%;
+    }
+}
+
+@media screen and (max-width: 1061px) {
+    .typer-style {
+        width: 100%;
     }
 }

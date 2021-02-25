@@ -1,10 +1,12 @@
 <body>
         <div id="home">
-            <div class="typer-style container">
-                <h1>//
-                    <span class="typer" id="main" data-words="Développeur Web, Étudiant, Intégrateur, UX/UI Designer, Graphiste" data-delay="80" data-delete-delay="850" data-colors="white"></span>
-                    <script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
-                </h1>
+            <div class="home-anim">
+                <div class="typer-style">
+                    <h1>//
+                        <span class="typer" id="main" data-words="Développeur Web, Étudiant, Intégrateur, UX/UI Designer, Graphiste" data-delay="80" data-delete-delay="850" data-colors="white"></span>
+                        <script async src="https://unpkg.com/typer-dot-js@0.1.0/typer.js"></script>
+                    </h1>
+                </div>
             </div>
         </div>
         <div id="presentation">
