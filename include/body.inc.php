@@ -297,7 +297,7 @@
                     <div class="project" data-aos="zoom-in">
                         <div class="project-image" id="covoit"></div>
                         <div class="project-container">
-                            <h3>IUT Convoit'</h3>
+                            <h3>IUT Covoit'</h3>
                             <p class="project-description">Projet d'application pour l'apprentissage du <span class="bold">PHP</span> à l'Université. Création d'un site de covoiturage pour les étudiants et les personnels de l'IUT du Limousin</p>
                             <div class="skills">
                                 <p class="skill">PHP</p>
